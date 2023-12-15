@@ -23,10 +23,10 @@ This is my portfolio, where I'll keep track and document my projects.
 
 | Project | Tools | Description | 
 |---|---|---|
+| [SteamWorkshopDownloader](https://github.com/sellingjaguar/SteamWorkshopDownloader) | Python, re, Requests, Subprocess, lxml, PySimpleGUI | CLI program that I used to download mods from the SteamWorkshop unofficially to then use on the respective game. usefull if user does not have official acccess to the Steam Workshop. Educational purposes only.  |
 | [SpotifyToMP3](https://github.com/sellingjaguar/SpotifyToMP3) | Pyton, Spotipy, BeautifulSoup, re, Pytube | CLI project that allowed me to download a playlist from Spotify given the public link for it that scanned the songs in the playlist and uisng the name and author downloaded them from youtube toa local folder, this was done because my Premium membership had expired and I did not have a lot of mobile data back then. |
 | [PDF Merger](https://github.com/sellingjaguar/pdf_merger) | Python, PyPDF2, Tkinter | CLI program that had an optional GUI that was used to merge all the PDF files inside a folder and respective subfolders, this was used during University to join all the material in one file for when I had to find specific material but did not know which PDF file had it, can be ran with the help of a GUI, and with or withou arguments. |
 | [SapoMailGenerator](https://github.com/sellingjaguar/SapoMailGenerator) | Python, Selenium | CLI program the autofilled all the fields to create an account for the SapoMail mail service and then requested the user to fill in the Captcha, it saved the created emails to a txt file. Educational Purposes only. |
-| [SteamWorkshopDownloader](https://github.com/sellingjaguar/SteamWorkshopDownloader) | Python, re, Requests, Subprocess, lxml | CLI program that I used to download mods from the SteamWorkshop unofficially to then use on the respective game. usefull if user does not have official acccess to the Steam Workshop. Educational purposes only.  
 
 ***
 

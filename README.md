@@ -13,8 +13,8 @@ This is my portfolio, where I'll keep track and document my projects.
 
 | Project | Tools | Description | 
 |---|---|---|
+| [The Data Science Course: Complete Data Science Bootcamp](https://github.com/sellingjaguar/The-Data-Science-Course-Complete-Data-Science-Bootcamp) | Combinatorics, Bayesian Inferences, Distributions, Descriptive Statistics, Inferential Statistics, Hypothesis Testing, Linear Regression | In-progress |
 | [K-Means Clustering Foundations](https://github.com/sellingjaguar/Foundations-of-Data-Science-K-Means-Clustering-in-Python) | Python, Jupyter, SKLearn, Pandas, Numpy, MatPlotLib | My work for the free course material on the "K-Means Clustering in Python" by the University of London in the Coursera Platform where I learned the logic behind the K-means CLustering Algorithm and gotten an idea of how other Data Clustering algorithms operate. |
-| [The Data Science Course: Complete Data Science Bootcamp 2024](https://github.com/sellingjaguar/The-Data-Science-Course-Complete-Data-Science-Bootcamp-2024) | Combinatorics, Bayesian Inferences | In-progress |
 <!--- Might not leave a good impression altough the idea is solid
 | [World penis data analysis](https://github.com/sellingjaguar/Penis-analysis) | Python, Jupyter, Pandas, MatPlotLib | In this project I wanted to mainly verify if there was inflation on size when the subjects were asked to self-report their size compared against when they were measured by a professional. |
 --->
